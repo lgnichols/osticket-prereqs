@@ -6,8 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -18,11 +16,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisite Downloads</h2>
+<h2>List of Prerequisites</h2>
 
-- IIS-Internet Information Services
+- IIS Internet Information Services
 - PHP Manager for IIS
-- Rewrite Module 
+- Rewrite Module
 - Visual C++ Redistributable (VC redist)
 - MySQL Server (storage database)
 
